@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Cython-generated files
+src/MCI/*.c
+*.so
+*.pyd
+*.html        # from cython -a annotation
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
