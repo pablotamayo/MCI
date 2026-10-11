@@ -17,9 +17,9 @@ If you clone the repository in your local computer and execute it, it should com
 
 ## Usage
 ```
-*MCI(x, y, binary_x = False, binary_y = False, rseed = 8672439)* is the main function that estimated the MCI between two vectors
-*MCI_assoc(x, y, (x, y, binary_x = False, binary_y = False, rseed = 8672439)* computes the MCI where the x and y can be vectors or matrices. For example, if x and y are vectors it is equivalent to MCI(x, y). If x is a vector and y a matrix, it computes the association between x and every row of y. If x and y are both matrices, it computes the pairwise association between each row of x and the corresponding row of y.
-*compute_ranks_and_copula_dens_multigrid_v2* and *compute_copula_entropies* are the two core cython functions that do all the work.
+MCI(x, y, binary_x = False, binary_y = False, rseed = 8672439) is the main function that estimated the MCI between two vectors
+MCI_assoc(x, y, (x, y, binary_x = False, binary_y = False, rseed = 8672439) computes the MCI where the x and y can be vectors or matrices. For example, if x and y are vectors it is equivalent to MCI(x, y). If x is a vector and y a matrix, it computes the association between x and every row of y. If x and y are both matrices, it computes the pairwise association between each row of x and the corresponding row of y.
+compute_ranks_and_copula_dens_multigrid_v2 and compute_copula_entropies are the two core cython functions that do all the work.
 ```
 
 See the 3 example in the `MCI Examples.ipynb` notebook.
