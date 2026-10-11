@@ -13,7 +13,7 @@ Cancer genomic analyses increasingly involve large, complex datasets representin
 
 ## Installation
 Requires Python ≥3.11 
-If you clone the repository in your local computer and execute it, it should compile the cython functions.
+If you clone the repository in your local computer and execute the Jupyter notebook, it should compile the cython functions.
 
 ## Usage
 ```
