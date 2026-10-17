@@ -8,7 +8,7 @@ The Multi-scale Copula Index (MCI): a new information-theoretic measure of assoc
 The article that describes this measure is publicly available:
 
 **The Multi-scale Copula Index (MCI): a new information-theoretic measure of association and its applications in functional cancer genomics** by Timothy Pham, Karina Meneses-Cime, Jiayan Ma, Bartholomew Tam, Amey Gupta, Michael Reich, Alex Wenzel, David Eby, Thorin Tabor, Helga Thorvaldsdottir, Antony Castanza, Jill P Mesirov, William Kim, Pablo Tamayo
-[bioRxiv 2026.10.10.758174](https://www.biorxiv.org/content/10.64898/2026.10.10.758174v1) https://doi.org/10.64898/2026.10.10.758174
+[bioRxiv 2026.10.10.758174](https://www.biorxiv.org/content/10.64898/2026.10.10.758174v1) 
 
 
 **Authors:** Timothy Pham and Pablo Tamayo
