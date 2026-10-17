@@ -5,6 +5,7 @@ The Multi-scale Copula Index (MCI): a new information-theoretic measure of assoc
 </h2>
 <br>
 
+The article that describes this measure is available [here.](https://www.biorxiv.org/content/10.64898/2026.10.10.758174v1)
 **Authors:** Timothy Pham and Pablo Tamayo
 
 **Date:** October 8, 2026
